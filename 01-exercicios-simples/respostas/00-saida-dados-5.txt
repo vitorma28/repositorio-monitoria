@@ -1,0 +1,5 @@
+Exemplo de nome: Luiz
+
+Código:
+
+console.log("Luiz");
