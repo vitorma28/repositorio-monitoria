@@ -2,10 +2,12 @@
 
 ## Tarefa
 
-Descreva como operar um fogão
+Descreva como operar um fogão.
 
 ## Erros possíveis
 
 Trate os seguintes erros, descrevendo o que fazer se algum acontecer:
 
--
+- Se faltar gás.
+- Caso falte energia.
+- Se a panela de óleo pegar fogo.
