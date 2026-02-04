@@ -1,0 +1,8 @@
+leitura e criação de código
+
+nivel 1:
+    Descrição de tarefas cotidianas
+
+nivel 2:
+    Programação básica
+    
